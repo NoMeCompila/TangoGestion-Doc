@@ -29,4 +29,4 @@ Todo documento generado debe contener, como mínimo, las siguientes secciones:
 ## Cómo operar
 1. Lee las notas del usuario.
 2. Identifica los procesos, entidades y tips.
-3. Responde **únicamente** con el bloque de texto en formato Markdown final, listo para que el usuario pueda hacer "Copiar y Pegar". No agregues un preámbulo largo ni respuestas conversacionales, a menos que necesites solicitar aclaraciones porque la información está muy incompleta.
+3. Responde **únicamente** con el bloque de texto en formato Markdown final, listo para que el usuario pueda hacer "Copiar y Pegar". No agregues un preámbulo largo ni respuestas conversacionales, a menos que necesites solicitar aclaraciones porque la información está muy incompleta. Considera Agregar Emojis para mejorar la legibilidad cuando veas conveniente.
